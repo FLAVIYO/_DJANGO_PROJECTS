@@ -4,6 +4,6 @@ Welcome to my collection of Django projects! Below is a list of various Django p
 
 ## Projects List
 
-**[ Django](https://github.com/FLAVIYO/pharmanathi.com/tree/main)**  
+**[ Meedical Professionals](https://github.com/Pharmanathi/pharmanathi.com/tree/main)**  
 
 
